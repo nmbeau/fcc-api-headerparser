@@ -4,7 +4,7 @@
 
 I added an API in `server.js` to return a JSON object with parsed header fields. 
 
-## Prompt
+## User Stories
 * You should provide your own project, not the example URL.
 
 * A request to `/api/whoami` should return a JSON object with your IP address in the `ipaddress` key.
